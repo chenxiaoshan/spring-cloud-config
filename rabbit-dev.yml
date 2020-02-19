@@ -1,7 +1,7 @@
 spring:
   rabbitmq:
-    host: 111.229.191.185
-    username: guest
-    password: guest
-    port: 32775
+    host: ip125892
+    username: x
+    password: x
+    port: x
 
