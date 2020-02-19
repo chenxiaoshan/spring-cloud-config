@@ -1,7 +1,0 @@
-spring:
-  rabbitmq:
-    host: ip125892
-    username: x
-    password: x
-    port: x
-
